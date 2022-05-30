@@ -1,3 +1,4 @@
+The answer of the question(What is the difference between add, commit, and push?)
 1. add:    adds your modified files which will be committed later to the stage. 
 2. commit: commits the files that have been added and creates a new revision with a log.
 3. push:   pushes your changes to the remote repository.
